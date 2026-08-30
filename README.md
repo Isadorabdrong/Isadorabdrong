@@ -143,13 +143,13 @@ Atualmente estou focada em aprimorar meus conhecimentos em desenvolvimento Front
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Isadorabdrong&show_icons=true&theme=rose_pine&hide_border=true&bg_color=00000000&rank_icon=github" />
+<img src="https://github-readme-stats.vercel.app/api?username=Isadorabdrong&show_icons=true&hide_border=true&theme=rose_pine&bg_color=00000000&rank_icon=github" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isadorabdrong&layout=compact&theme=rose_pine&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isadorabdrong&layout=compact&hide_border=true&theme=rose_pine&bg_color=00000000" />
 
-<br>
+<br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Isadorabdrong&theme=react-dark&hide_border=true&bg_color=00000000" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Isadorabdrong&theme=github-compact&hide_border=true&bg_color=00000000" />
 
 </div>
 
