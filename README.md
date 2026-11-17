@@ -47,10 +47,8 @@ Disciplinas presentes nos meus trabalhos: programação orientada a objetos, ban
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/tecnologias-dark.png" />
-  <img src="assets/tecnologias-light.png" alt="Linguagens: Python, JavaScript, PHP, C, C++, C#. Web e aplicativos: HTML5, CSS3, React, React Native, Flask. Bancos de dados: MySQL, SQL Server, MongoDB. Ferramentas: Git, GitHub, APIs REST. Em estudo: FastAPI." width="100%" />
+  <img src="assets/tecnologias-light.png" alt="Linguagens: Python, JavaScript, PHP, C, C++, C#. Web e aplicativos: HTML5, CSS3, React, React Native, Flask. Bancos de dados: MySQL, SQL Server, MongoDB. Ferramentas: Git, GitHub, APIs REST. Conceitos: programação orientada a objetos, lógica de programação, modelagem de bancos de dados. Em estudo: FastAPI." width="100%" />
 </picture>
-
-**Conceitos:** programação orientada a objetos · lógica de programação · modelagem e manipulação de bancos de dados
 
 ### `> atividade no github`
 
