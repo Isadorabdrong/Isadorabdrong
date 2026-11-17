@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/cabecalho-dark.png" />
-  <img src="assets/cabecalho-light.png" alt="Avatar em pixel art de Isadora Beatriz Drong ao lado do nome — estudante de Engenharia de Software na UniBrasil, Curitiba (PR), 2024 a 2027" width="100%" />
+  <img src="assets/cabecalho-light.png" alt="Ilustração estilo anime de Isadora Beatriz Drong ao lado do nome — estudante de Engenharia de Software na UniBrasil, Curitiba (PR), 2024 a 2027" width="100%" />
 </picture>
 
 <p>
