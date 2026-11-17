@@ -1,162 +1,73 @@
-<div align="center">
+<img src="assets/banner.png" alt="Isadora Beatriz Drong — Engenharia de Software, UniBrasil" width="100%" />
 
-# Isadora Beatriz Drong
-
-### Front-End Developer | Software Engineering Student | React · JavaScript
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&pause=2500&color=B5739E&center=true&vCenter=true&width=700&lines=Seja+bem-vindo(a)+ao+meu+GitHub!;Front-End+Developer;React+%7C+JavaScript+%7C+TypeScript;Software+Engineering+Student" />
-
-<p>
-<a href="https://www.linkedin.com/in/isadora-drong/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="mailto:isadorabeatrizdrong19@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+<p align="left">
+  <a href="https://www.linkedin.com/in/isadora-drong/"><img src="https://img.shields.io/badge/LinkedIn-isadora--drong-5E1A2E?style=flat-square" alt="LinkedIn" /></a>
+  <a href="mailto:isadorabeatrizdrong19@gmail.com"><img src="https://img.shields.io/badge/E--mail-contato-A85A6E?style=flat-square&logo=gmail&logoColor=F6F1EB" alt="E-mail" /></a>
+  <img src="https://img.shields.io/badge/Curitiba-PR-4A4044?style=flat-square" alt="Curitiba, PR" />
 </p>
 
-</div>
+## Sobre
 
----
+Sou estudante de Engenharia de Software na UniBrasil, em Curitiba, com conclusão prevista para o 2º semestre de 2027. Na graduação programo em Python, JavaScript, PHP, C, C++ e C#, desenvolvo aplicações web e mobile e modelo bancos relacionais (MySQL, SQL Server) e não relacionais (MongoDB).
 
-## 👩🏻‍💻 Sobre mim
+Uso este GitHub para publicar projetos com código, documentação e instruções de execução, de forma que dê para clonar, rodar e entender as decisões técnicas.
 
-Sou estudante de **Engenharia de Software na UniBrasil** e desenvolvedora **Front-End**.
+## Formação
 
-Tenho maior interesse em desenvolvimento web e na criação de interfaces, trabalhando principalmente com **HTML, CSS, JavaScript, React e TypeScript**.
+| Curso | Instituição | Período |
+| --- | --- | --- |
+| Bacharelado em Engenharia de Software | UniBrasil — Curitiba, PR | fev/2024 – 2º semestre de 2027 (previsão) |
 
-Também tenho contato com **React Native, Python, PHP, Java, C, C++, C#, SQL e APIs REST**, além de conhecimentos em bancos de dados.
+Disciplinas que mais aparecem nos meus trabalhos: programação orientada a objetos, banco de dados, qualidade de software e testes, gerência de projetos, desenvolvimento de aplicativos, interação humano-computador e inteligência artificial.
 
-Atualmente estou focada em aprimorar meus conhecimentos em desenvolvimento Front-End e colocar em prática o que venho aprendendo durante a graduação.
+## Tecnologias
 
----
+**Linguagens**
 
-## ⚡ Onde estou hoje
+![Python](https://img.shields.io/badge/Python-F6F1EB?style=flat-square&logo=python&logoColor=5E1A2E)
+![JavaScript](https://img.shields.io/badge/JavaScript-F6F1EB?style=flat-square&logo=javascript&logoColor=5E1A2E)
+![PHP](https://img.shields.io/badge/PHP-F6F1EB?style=flat-square&logo=php&logoColor=5E1A2E)
+![C](https://img.shields.io/badge/C-F6F1EB?style=flat-square&logo=c&logoColor=5E1A2E)
+![C++](https://img.shields.io/badge/C++-F6F1EB?style=flat-square&logo=cplusplus&logoColor=5E1A2E)
+![C#](https://img.shields.io/badge/C%23-F6F1EB?style=flat-square&logo=dotnet&logoColor=5E1A2E)
 
-- 🎨 Desenvolvimento Front-End
-- ⚛️ React e JavaScript
-- 📘 TypeScript
-- 🌐 Desenvolvimento web
-- 📱 React Native
-- 🧩 Componentização e organização de interfaces
-- 🎯 UI/UX
-- 🔗 Consumo e integração de APIs REST
-- 🗄️ Bancos de dados
-- 🛠️ Git e GitHub
+**Web e aplicações**
 
----
+![HTML5](https://img.shields.io/badge/HTML5-F6F1EB?style=flat-square&logo=html5&logoColor=5E1A2E)
+![CSS3](https://img.shields.io/badge/CSS3-F6F1EB?style=flat-square&logo=css&logoColor=5E1A2E)
+![React](https://img.shields.io/badge/React-F6F1EB?style=flat-square&logo=react&logoColor=5E1A2E)
+![React Native](https://img.shields.io/badge/React%20Native-F6F1EB?style=flat-square&logo=react&logoColor=5E1A2E)
+![Flask](https://img.shields.io/badge/Flask-F6F1EB?style=flat-square&logo=flask&logoColor=5E1A2E)
 
-## 💻 Tecnologias
+**Bancos de dados**
 
-### 🎨 Front-End
+![MySQL](https://img.shields.io/badge/MySQL-F6F1EB?style=flat-square&logo=mysql&logoColor=5E1A2E)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-F6F1EB?style=flat-square)
+![MongoDB](https://img.shields.io/badge/MongoDB-F6F1EB?style=flat-square&logo=mongodb&logoColor=5E1A2E)
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react" />
-</p>
+**Em aprendizado**
 
-**HTML5 · CSS3 · JavaScript · TypeScript · React**
+![FastAPI](https://img.shields.io/badge/FastAPI-em%20aprendizado-A85A6E?style=flat-square&logo=fastapi&logoColor=F6F1EB)
 
----
+## Ferramentas e conceitos
 
-### 📱 Mobile
+| Ferramentas | Conceitos |
+| --- | --- |
+| Git e GitHub (versionamento, branches, README) | Programação orientada a objetos |
+| APIs REST (criação e consumo) | Lógica de programação e algoritmos |
+| | Modelagem e manipulação de bancos de dados |
 
-<p>
-<img src="https://skillicons.dev/icons?i=react" />
-</p>
+## Áreas de interesse
 
-**React Native**
+Desenvolvimento de software, engenharia de sistemas, bancos de dados, inteligência artificial, dados, infraestrutura e segurança. Ainda não escolhi uma especialização; por isso os projetos publicados aqui devem variar de linguagem e de tipo de aplicação.
 
----
+## Objetivos para 2026–2027
 
-### ⚙️ Back-End
+- Publicar aqui os projetos acadêmicos e pessoais que tenham código executável, com README, instruções de execução e testes quando couber.
+- Consolidar FastAPI e testes automatizados em Python.
+- Atuar profissionalmente em tecnologia (estágio ou vaga júnior) ainda durante a graduação.
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,php,java,cs,c,cpp" />
-</p>
+## Contato
 
-**Python · PHP · Java · C# · C · C++**
-
----
-
-### 🗄️ Bancos de Dados
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,firebase" />
-</p>
-
-**MySQL · PostgreSQL · Firebase · SQL Server**
-
----
-
-### 🔗 APIs
-
-**APIs REST · Consumo e integração de APIs**
-
----
-
-### 🧩 Frameworks & Libraries
-
-<p>
-<img src="https://skillicons.dev/icons?i=flask,vite,tailwind" />
-</p>
-
-**Flask · Vite · Tailwind CSS**
-
----
-
-### 🛠️ Ferramentas
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,visualstudio,figma,postman" />
-</p>
-
-**Git · GitHub · Docker · VS Code · Visual Studio · Figma · Postman**
-
----
-
-## 📚 Atualmente estudando
-
-- React
-- JavaScript
-- TypeScript
-- Desenvolvimento Front-End
-- Desenvolvimento Web
-- UI/UX
-- React Native
-- APIs REST
-- Git e GitHub
-- Boas práticas de desenvolvimento
-
----
-
-## 🎓 Formação
-
-### Engenharia de Software
-
-**UniBrasil**  
-2024 — 2027
-
----
-
-## 📊 GitHub
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Isadorabdrong&show_icons=true&hide_border=true&theme=rose_pine&bg_color=00000000&rank_icon=github" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isadorabdrong&layout=compact&hide_border=true&theme=rose_pine&bg_color=00000000" />
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Isadorabdrong&theme=github-compact&hide_border=true&bg_color=00000000" />
-
-</div>
-
----
-
-<div align="center">
-
-### Obrigada por visitar meu GitHub! ♡
-
-</div>
+- LinkedIn: [linkedin.com/in/isadora-drong](https://www.linkedin.com/in/isadora-drong/)
+- E-mail: isadorabeatrizdrong19@gmail.com
